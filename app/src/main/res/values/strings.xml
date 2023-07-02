@@ -1,0 +1,6 @@
+<resources>
+    <string name="item_cat_photo">item_cat_photo</string>
+    <string name="app_name">SCA - Secret Cat Agents</string>
+    <string name="main_title">Our Agents</string>
+    <string name="add_a_cat">Add A Cat</string>
+</resources>
